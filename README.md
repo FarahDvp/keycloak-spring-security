@@ -1,9 +1,6 @@
 # keycloak-spring-security
 This project demonstrates the integration of Spring Boot 3.x, Spring Security 6, and Keycloak to implement a secure authentication and authorization system.
 
-# authenticationSystem
-This project is a demonstration of integrating Spring Boot 3.x with Spring Security 6 and Keycloak for secure authentication and authorization.
-
 ## Table of Contents
 
 1. [Introduction](#introduction)
